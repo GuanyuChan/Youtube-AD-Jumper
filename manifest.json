@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "Youtube-AD-Jumper",
+  "version": "1.0",
+  "description": "Block ads on YouTube",
+  "permissions": [
+    "https://www.youtube.com/*",
+    "webRequest",
+    "webRequestBlocking"
+  ],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.youtube.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "manifest_key": "value"
+}
