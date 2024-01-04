@@ -6,6 +6,8 @@ Jump to Copyright.txt If more info
 Youtube ad blocker
 Auto Clicks "skip ad" with no need for action
 
+But,as the youtube ad style can improved, maybe some of the ads may not be skipped, you may open an issue and report to me, that is thanks a lot!
+
 
 JavaScript as a main language
 
