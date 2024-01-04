@@ -4,5 +4,9 @@ Edited at 2024-1-4
 
 Youtube ad blocker
 Auto Clicks "skip ad" with no need for action
+
+
 JavaScript as a main language
+
+
 (The Blocker is still being repaired, please note that it only for Chrome!)
