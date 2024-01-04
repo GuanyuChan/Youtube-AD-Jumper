@@ -1,5 +1,6 @@
 Copyright@GuanyuChan(长青桥上的我）
 Edited at 2024-1-4
+Jump to Copyright.txt If more info
 
 
 Youtube ad blocker
