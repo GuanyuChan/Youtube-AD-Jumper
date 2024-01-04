@@ -10,4 +10,6 @@ Auto Clicks "skip ad" with no need for action
 JavaScript as a main language
 
 
-(The Blocker is still being repaired, Bugs MAY happen,sorry for that!)
+(The Blocker is still being repaired, Bugs MAY happen, sorry!)
+
+Extension: "Tampermonkey" Is required, It can be find on the Edge extension store or Chrome web store
