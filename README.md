@@ -8,22 +8,4 @@ The YouTube ad blocker is built using JavaScript as its main programming languag
 
 Please note that the blocker is still undergoing repairs and may contain bugs. We apologize for any inconvenience caused.
 
-To use the tool, you will need to install the Tampermonkey extension, which is available on both the Edge extension store and the Chrome web store.Copyright@GuanyuChan(长青桥上的我）
-Edited at 2024-1-4
-Jump to Copyright.txt For more info
-
-
-Youtube ad blocker
-Auto Clicks "skip ad" with no need for action
-
-But, as the YouTube ad style can improved, maybe some of the ads may not be skipped, you may open an issue and report it to me, that is thanks a lot!
-
-
-JavaScript as a main language
-
-DO NOT COPY DO NOT COPY! I hated it!!!
-
-
-(The Blocker is still being repaired, Bugs MAY happen, sorry!)
-
-Extension: "Tampermonkey" Is required, It can be found on the Edge extension store or Chrome web store
+To use the tool, you will need to install the Tampermonkey extension, which is available on both the Edge extension store and the Chrome web store.
