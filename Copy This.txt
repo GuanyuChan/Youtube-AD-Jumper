@@ -1,11 +1,11 @@
 // ==UserScript==
-// @name         广告拦截器
+// @name         Youtube 广告拦截小工具
 // @namespace    https://github.com/GuanyuChan/Youtube-AD-Jumper
 // @version      2.0
-// @description:zh-CN   这是一个去除YouTube广告的脚本，可以有效去除一定的广告
+// @description   这是一个去除YouTube广告的脚本，可以有效去除Youtube广告（除主屏界面广告）
 // @match        https://www.youtube.com/*
 // @run-at       document-start
-// @author       GuanyuChan
+// @author       GuanyuChan(长青桥上的我）
 // ==/UserScript==
 
 (function() {
