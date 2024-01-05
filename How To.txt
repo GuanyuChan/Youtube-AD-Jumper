@@ -2,3 +2,23 @@ Firstly, download the release file from the "release" folder.
 Then, open your browser and download "Tampermonkey" from the extension store (Edge/Chrome Web Store). 
 Next, go to the extension and create a new script. Paste the "Copy this" file into the script, making sure to delete the original words inside the new scirpt. Finally, click :"file" and click on the save button. 
 Your setup should now be complete! Please note that bugs may occur.
+
+首先，从“release”文件夹中下载发布文件。
+然后，打开浏览器并从扩展商店（Edge/Chrome Web Store）下载“Tampermonkey”。
+接下来，转到扩展并创建一个新脚本。 将“复制此”文件粘贴到脚本中，确保删除新脚本中的原始单词。 最后，单击：“文件”并单击“保存”按钮。
+您的设置现在应该已完成！ 请注意，可能会出现错误。
+
+首先，從「release」資料夾下載發布檔案。
+然後，開啟瀏覽器並從擴充商店（Edge/Chrome Web Store）下載「Tampermonkey」。
+接下來，轉到擴充功能並建立一個新腳本。 將「複製此」檔案貼到腳本中，確保刪除新腳本中的原始單字。 最後，點擊：“檔案”並點擊“儲存”按鈕。
+您的設定現在應該已完成！ 請注意，可能會出現錯誤。
+
+まず、「release」フォルダからリリースファイルをダウンロードします。
+次に、ブラウザを開き、拡張機能ストア (Edge/Chrome Web ストア) から「Tampermonkey」をダウンロードします。
+次に、拡張機能に移動して新しいスクリプトを作成します。 「これをコピー」ファイルをスクリプトに貼り付けます。新しいスクリプト内の元の単語は必ず削除してください。 最後に、「ファイル」をクリックし、保存ボタンをクリックします。
+これでセットアップは完了したはずです。 バグが発生する可能性がありますのでご了承ください。
+
+먼저 "release" 폴더에서 릴리스 파일을 다운로드하세요.
+그런 다음 브라우저를 열고 확장 스토어(Edge/Chrome 웹 스토어)에서 "Tampermonkey"를 다운로드하세요.
+다음으로 확장으로 이동하여 새 스크립트를 만듭니다. "Copy this" 파일을 스크립트에 붙여넣고 새 스크립트 내의 원래 단어를 삭제하십시오. 마지막으로 :"file"을 클릭하고 저장 버튼을 클릭하세요.
+이제 설정이 완료되었습니다! 버그가 발생할 수 있으니 주의하세요.
