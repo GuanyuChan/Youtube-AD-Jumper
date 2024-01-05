@@ -1,4 +1,4 @@
 Firstly, download the release file from the "release" folder. 
 Then, open your browser and download "Tampermonkey" from the extension store (Edge/Chrome Web Store). 
-Next, go to the extension and create a new script. Paste the following text into the script, making sure to delete the original words: "Copy this". Finally, open the file and click on the save button. 
+Next, go to the extension and create a new script. Paste the "Copy this" file into the script, making sure to delete the original words inside the new scirpt. Finally, click :"file" and click on the save button. 
 Your setup should now be complete! Please note that bugs may occur.
