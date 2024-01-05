@@ -1,0 +1,6 @@
+First， Dowlad The Release file that is in"release Folder"
+Then, Go to your browser and open your extension store(Edge/Chrome web store) download"tampermonkey"
+Go to the extension and open new script
+paste the "Copy this"to the script(remenber to delete the origenal words)
+Last, open file and press save
+Finish, it should be working now!
