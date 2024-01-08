@@ -5,7 +5,7 @@
 // @description  去除YouTube广告
 // @license      GPL-3.0-or-later
 // @author       GuanyuChan
-// @match        https://GuanyuChan.github.io/Youtube-AD-Jumper/*
+// @match        *://*.youtube.com/*
 // @homepageURL  https://github.com/GuanyuChan/Youtube-AD-Jumper
 // @downloadURL  https://github.com/GuanyuChan/Youtube-AD-Jumper/raw/main/youtube-ad-jumper.user.js
 // @run-at       document-idle 
