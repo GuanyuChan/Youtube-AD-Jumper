@@ -11,44 +11,45 @@
 // @run-at       document-idle 
 // ==/UserScript==
 
-// Config and common functions
-const config = getConfig();
-const adSelector = config.adSelector;
+(function() {
+  'use strict';
+  
+  // Config and common functions
+  const config = getConfig();
+  const adSelector = config.adSelector;
 
-function report(error) {
-  // create GitHub issue
-}
-
-function main() {
-
-  try {
-
-    // Event listeners 
-
-    window.addEventListener('beforescriptexecute', handler);
-
-    document.addEventListener('DOMContentLoaded', async () => {
-
-      let ad;
-      while (ad = document.querySelector(adSelector)) {
-        await removeAd(ad);  
-      }
-
-    });
-
-  } catch (error) {
-    report(error);
+  function report(error) {
+    // create GitHub issue
   }
 
-}
+  function main() {
+    try {
+      // Event listeners
+      window.addEventListener('beforescriptexecute', handler);
+      
+      document.addEventListener('DOMContentLoaded', async () => {
+        removeAds();
+      });
+    } catch (error) {
+      report(error);
+    }
+  }
 
-// Specific functions 
-function handler() {
-  //...
-}
+  // Specific functions
+  function handler() {
+    //...
+  }
 
-function removeAd() {
-  //...  
-}
+  async function removeAd(ad) {
+    //...
+  }
 
-main();
+  async function removeAds() {
+    const ads = document.querySelectorAll(adSelector);
+    for (const ad of ads) {
+      await removeAd(ad);
+    }
+  }
+
+  main();
+})();
