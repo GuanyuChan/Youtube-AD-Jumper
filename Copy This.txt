@@ -13,35 +13,21 @@
 
 (function() {
   'use strict';
-  
+
   // Config and common functions
   const config = getConfig();
   const adSelector = config.adSelector;
 
+  function getConfig() {
+    // Implement your getConfig function here
+  }
+
   function report(error) {
-    // create GitHub issue
-  }
-
-  function main() {
-    try {
-      // Event listeners
-      window.addEventListener('beforescriptexecute', handler);
-      
-      document.addEventListener('DOMContentLoaded', async () => {
-        removeAds();
-      });
-    } catch (error) {
-      report(error);
-    }
-  }
-
-  // Specific functions
-  function handler() {
-    //...
+    // Implement your report function here
   }
 
   async function removeAd(ad) {
-    //...
+    // Implement your removeAd function here
   }
 
   async function removeAds() {
@@ -49,6 +35,23 @@
     for (const ad of ads) {
       await removeAd(ad);
     }
+  }
+
+  function main() {
+    try {
+      // Event listeners
+      window.addEventListener('beforescriptexecute', handler);
+
+      document.addEventListener('DOMContentLoaded', async () => {
+        await removeAds();
+      });
+    } catch (error) {
+      report(error);
+    }
+  }
+
+  function handler() {
+    // Implement your handler function here
   }
 
   main();
