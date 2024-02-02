@@ -19,15 +19,18 @@
   const adSelector = config.adSelector;
 
   function getConfig() {
-    // Implement your getConfig function here
+    return {
+      adSelector: '.ad-showing, .video-ads, .ytp-ad-overlay-container, .ytp-ad-image-overlay, .ytp-ad-text-overlay, .ytp-ad-player-overlay'
+    };
   }
 
   function report(error) {
-    // Implement your report function here
+    // You can implement this function to handle error reporting, such as creating a GitHub issue
   }
 
   async function removeAd(ad) {
-    // Implement your removeAd function here
+    // You can implement this function to remove the ad element
+    ad.remove();
   }
 
   async function removeAds() {
@@ -51,7 +54,7 @@
   }
 
   function handler() {
-    // Implement your handler function here
+    // You can implement this function to handle the 'beforescriptexecute' event
   }
 
   main();
